@@ -1,1 +1,1 @@
-from . import DummyLibrary
+from .pylib import DummyClass
